@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-textsqlai-dev-204402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::420408577340:role/amplify-textsqlai-dev-204402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::420408577340:role/amplify-textsqlai-dev-204402-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-textsqlai-dev-204402-deployment",
+      "UnauthRoleName": "amplify-textsqlai-dev-204402-unauthRole",
+      "StackName": "amplify-textsqlai-dev-204402",
+      "StackId": "arn:aws:cloudformation:us-east-1:420408577340:stack/amplify-textsqlai-dev-204402/d1f8b8a0-359d-11ee-ae25-12b99d9b1b71",
+      "AmplifyAppId": "d2g60sinlpd0in"
+    },
+    "categories": {
+      "auth": {
+        "textsqlaifb8a6a1f": {}
+      }
+    }
+  }
+}
